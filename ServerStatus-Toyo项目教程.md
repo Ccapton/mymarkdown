@@ -1,6 +1,6 @@
 ---
-title: 2018-9-24未命名文件 
-tags: 新建,模板,小书匠
+title: ServerStatus-Toyo教程 
+tags: ServerStatus-Toyo,云监控,云探针,多服务器云监控
 grammar_cjkRuby: true
 ---
 # 2018/9/24
